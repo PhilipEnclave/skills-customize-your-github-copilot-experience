@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-rest-apis",
+      "title": "Consuming REST APIs",
+      "description": "Use Python's requests library to fetch, filter, and display data from a public REST API.",
+      "path": "assignments/consuming-rest-apis",
+      "dueDate": "2026-05-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
